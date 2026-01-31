@@ -14,3 +14,8 @@ function save() {
     count=0
 }
 
+const incBtn=document.getElementById("increment-btn")
+incBtn.addEventListener("click", increment)
+
+const saveBtn=document.getElementById("save-btn")
+saveBtn.addEventListener("click", save)
