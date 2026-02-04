@@ -1,5 +1,6 @@
+#important
 You may ignore this readme file
-ishould have deleted the whole file instead..
+I should have deleted the whole file instead..
 
 # Getting Started
 Install the dependencies and run the project
