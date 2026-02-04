@@ -1,5 +1,5 @@
 #important
-Welcome to the increment counter app!
+Welcome to the increment counter app
 
 
 # Getting Started
