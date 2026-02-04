@@ -1,6 +1,6 @@
 #important
-You may ignore this readme file
-I should have deleted the whole file instead..
+Welcome to the increment counter app!
+
 
 # Getting Started
 Install the dependencies and run the project
