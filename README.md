@@ -1,3 +1,5 @@
+You may ignore this readme file
+
 # Getting Started
 Install the dependencies and run the project
 ```
@@ -17,3 +19,4 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
